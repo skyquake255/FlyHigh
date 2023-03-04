@@ -1,3 +1,3 @@
 # FlyHigh
 
-aerial sex simulator
+flying simulator
